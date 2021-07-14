@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fazlencodes
+- 👋 Hi, I’m Fazlen S.
 - 👀 I’m interested in Python and ML
 - 🌱 I’m currently learning ML
 
