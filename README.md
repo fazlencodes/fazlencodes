@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fazlen S.
 - 👀 I’m interested in Python and ML
 - 🌱 I’m currently learning ML
-- :computer: https://www.hackerrank.com/fazlen_codes
+- :computer: Websites: 1) https://www.hackerrank.com/fazlen_codes 2) https://www.kaggle.com/fazlencodes
 - 📫 How to reach me : fazlen.codes@gmail.com
 
 <!---
